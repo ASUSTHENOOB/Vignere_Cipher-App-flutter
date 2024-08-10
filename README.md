@@ -42,7 +42,7 @@ The Vigenère cipher is a method of encrypting alphabetic text by using a series
 Message: HELLO
 Keyword: KEY
 Encrypted: RIJVS
-For more information on how the Vigenère cipher works, check out this Wikipedia article.
+For more information on how the Vigenère cipher works, check out the Wikipedia article.
 
 # Contributing 🤝
 Contributions are welcome! If you find a bug or have a feature request, please open an issue. Feel free to fork the project and submit a pull request.
