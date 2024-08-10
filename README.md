@@ -25,7 +25,7 @@ Welcome to the **Vigenère Cipher App**! This project is a tool to encrypt and d
 ### Steps to Install
 
 1. **Clone the Repository**:
-   ```bash
+   
  git clone https://github.com/yourusername/vigenere-cipher-app.git
  cd vigenere-cipher-app
 
