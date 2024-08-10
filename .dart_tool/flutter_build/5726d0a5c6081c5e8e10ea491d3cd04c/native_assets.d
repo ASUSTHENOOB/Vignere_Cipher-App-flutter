@@ -1,0 +1,1 @@
+ F:\\Test\ Apps\\vernam_vignere\\.dart_tool\\flutter_build\\5726d0a5c6081c5e8e10ea491d3cd04c\\native_assets.yaml: 
